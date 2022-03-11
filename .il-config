@@ -1,0 +1,8 @@
+repositoryName: test
+description: description
+owner: owner
+trackingId: 87b2338d-3ea4-45cc-bd63-73d1f4a73a6c
+spartanzBot:
+  fileChecker:
+    enabled: true
+    comment: true
